@@ -30,3 +30,9 @@ THEN a password is generated that matches the selected criteria
 
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
+
+# Mock Up Site
+![396B182F-EDA5-464E-AD24-A41704EF3ADC](https://user-images.githubusercontent.com/117424603/219828902-c832c832-a435-472f-96ed-27ac57cf8c40.jpeg)
+
+# Links
+https://bg2398.github.io/Stay-protected-4-life/
